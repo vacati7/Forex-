@@ -1,0 +1,32 @@
+# Forex AI Chart Pro
+
+TradingView-style, multi-year AI charting tool for Forex, Crypto, and Commodities.
+
+## አጠቃቀም (Usage)
+
+1. **የምልክት መምሪያዎች**  
+   - Symbol (ምልክት): የውጭ ገንዘብ ግንዛቤዎችን ይምረጡ (ለምሳሌ XAU/USD, EUR/USD ...)
+   - Timeframe (የጊዜ ክፍል): የታክሏ የምርመራ ጊዜ ይምረጡ (ለምሳሌ 1min, 1h, 1day ...)
+   - Chart Range (አደረጃጀት): ከፍተኛ ዓመት ያቀፉ ይምረጡ (1y, 2y, 5y, 10y, Max)
+   - Indicators, Strategies, AI Concepts: የሚፈለጉትን ይምረጡ
+
+2. **የመሳሪያዎቹ ተግባር**
+   - Screenshot: የገቢ ሰንደቅ ውስጥ ያስቀምጡ
+   - Export Log: የንግድ ታሪክ ወደ ፋይል ይላኩ
+   - Theme: ቀለም ይቀይሩ (Dark/Light)
+
+## ባለው ፋይል ውስጥ የተጠቀሰው
+
+- [Lightweight Charts](https://tradingview.github.io/lightweight-charts/) (TradingView-style charting)
+- [TwelveData API](https://twelvedata.com/) (የውጭ ገንዘብ ውሂብ)
+- [HTML2Canvas](https://html2canvas.hertzen.com/) (Screenshot)
+
+## ተጨማሪ መረጃ
+
+- የAI ምልክቶች በአንድነት የመርምር አቀፍ ስርዓትን ይጠቀሙ (Ensemble)
+- የሚያቀፉ ካርታዎች በቀላሉ ይዘዋወሩ
+
+---
+
+**ማንኛውም ጥያቄ/አስተያየት?**  
+[GitHub Issues](https://github.com/vacati7/forex-ai-chart-pro/issues) ይጠቀሙ።
